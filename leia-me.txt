@@ -1,0 +1,13 @@
+Exemplo de aplicação QML (Qt5 - QtQuick 2.2) gerada emPython3
+
+Necessario: Python3, Qt5 e PyQt5
+
+para rodar:
+python3 gerador.py
+
+Escolha uma das versoes:
+varredura: cada item fica selecionado por 1s e um clique (em qualquer lugar)
+toca o instrumento selecionado
+
+toque: os itens selecionais são realçados, basta tocar (clicar) no item para
+que o instrumento seja tocado.

@@ -1,0 +1,33 @@
+{
+    "fundo": {
+        "source_img": "content/gfx/bateria-completa.png",
+        "width": "640",
+        "height": "480"
+    },
+    "objs": [
+        {
+            "id": "prato",
+            "source_sound": "content/audio/prato_conducao1.wav",
+            "x": 163,
+            "y": 80,
+            "width": 180,
+            "height": 100
+        },
+        {
+            "id": "bumbo",
+            "source_sound": "content/audio/bumbo_medio.wav",
+            "x": 395,
+            "y": 365,
+            "width": 175,
+            "height": 120
+        },
+        {
+            "id": "caixa",
+            "source_sound": "content/audio/caixa.wav",
+            "x": 453,
+            "y": 200,
+            "width": 140,
+            "height": 120
+        }
+    ]
+}
